@@ -1,0 +1,38 @@
+[
+    {
+        "brand": "Asus",
+        "model": "Asus Zenfone Max Pro M1",
+        "codeName": "X00T",
+        "baseURL": "https://sourceforge.net/projects/shrp-reborn/files/X00T/",
+        "latestBuild": "https://sourceforge.net/projects/shrp/files/X00T/",
+        "mockSrc": "img/Devices/roundy.svg",
+        "maintainer": "hraj9258",
+        "buildNo": "",
+        "currentVersion": "3.2",
+        "md5": ""
+    },
+    {
+        "brand": "POCO",
+        "model": "Poco X2",
+        "codeName": "phoenix",
+        "baseURL": "https://sourceforge.net/projects/shrp/files/phoenix/",
+        "latestBuild": "https://sourceforge.net/projects/shrp/files/phoenix/",
+        "mockSrc": "img/Devices/doubleInfinity+ORight.svg",
+        "maintainer": "hraj9258",
+        "buildNo": "",
+        "currentVersion": "3.2",
+        "md5": ""
+    },
+    {
+        "brand": "POCO",
+        "model": "Poco F4",
+        "codeName": "munch",
+        "baseURL": "https://sourceforge.net/projects/shrp-reborn/files/munch/",
+        "latestBuild": "https://sourceforge.net/projects/shrp-reborn/files/munch/",
+        "mockSrc": "img/Devices/infinityOCenter.svg",
+        "maintainer": "hraj9258",
+        "buildNo": "",
+        "currentVersion": "3.2",
+        "md5": ""
+    }
+]
