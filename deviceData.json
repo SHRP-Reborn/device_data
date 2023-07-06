@@ -25,12 +25,37 @@
     },
     {
         "brand": "POCO",
+        "model": "Poco X3 NFC",
+        "codeName": "surya",
+        "baseURL": "https://sourceforge.net/projects/shrp-reborn/files/surya/",
+        "latestBuild": "https://sourceforge.net/projects/shrp-reborn/files/surya/",
+        "mockSrc": "img/Devices/infinityOCenter.svg",
+        "maintainer": "rxuglr",
+        "buildNo": "",
+        "currentVersion": "3.2",
+        "md5": ""
+    },
+
+    {
+        "brand": "POCO",
         "model": "Poco F4",
         "codeName": "munch",
         "baseURL": "https://sourceforge.net/projects/shrp-reborn/files/munch/",
         "latestBuild": "https://sourceforge.net/projects/shrp-reborn/files/munch/",
         "mockSrc": "img/Devices/infinityOCenter.svg",
         "maintainer": "hraj9258",
+        "buildNo": "",
+        "currentVersion": "3.2",
+        "md5": ""
+    },
+    {
+        "brand": "Xiaomi",
+        "model": "Redmi 7A / Redmi 8 / 8A / 8A Dual",
+        "codeName": "mi439",
+        "baseURL": "https://sourceforge.net/projects/shrp-reborn/files/mi439/",
+        "latestBuild": "https://sourceforge.net/projects/shrp-reborn/files/mi439/",
+        "mockSrc": "img/Devices/roundy.svg",
+        "maintainer": "rxuglr",
         "buildNo": "",
         "currentVersion": "3.2",
         "md5": ""
