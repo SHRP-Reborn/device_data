@@ -61,6 +61,18 @@
         "md5": ""
     },
     {
+        "brand": "Samsung",
+        "model": "Galaxy S20 (Exynos)",
+        "codeName": "x1s",
+        "baseURL": "https://sourceforge.net/projects/shrp-reborn/files/x1s/",
+        "latestBuild": "https://sourceforge.net/projects/shrp-reborn/files/x1s/",
+        "mockSrc": "img/Devices/roundy.svg",
+        "maintainer": "rxuglr",
+        "buildNo": "",
+        "currentVersion": "3.2",
+        "md5": ""
+    },
+    {
         "brand": "Dummy"
     }
 ]
